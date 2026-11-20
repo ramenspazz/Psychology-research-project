@@ -11,6 +11,9 @@ All analysis can be preformed in PSPP, SPSS, or any tool of choice. The results 
 We would like to make a special thanks to our faculty mentor Dr. Diane J. Pfahler for her immense help in this project, without which we would not have gotten to this point.
 We love you Dr. Pfahler!
 
+# Data plot
+![Plot of male v female data](Figure_1.png)   
+
 # Installing python dependencies:
 > First, create the python environment by running `python -m venv data_analysis`,
 > then activate the environment with `source data_analysis/bin/activate` on 
