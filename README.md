@@ -1,3 +1,16 @@
+# Comparison of Social and Emotional Isolation and Loneliness of Males: The Male Loneliness Epidemic
+This repository contains all materials used for a survey based research project on the Male Loneliness Epidemic. We attempted to use opensource tools whenever possible.
+Tools used:
+1) PSPP as an alternative to SPSS, though results were verified with SPSS on University computers to satisfy academic requirements
+2) python libraries pandas, matplotlib, scipy, numpy, and statsmodels for secondary validation of results and to test methods used by other software
+3) DesignCraft to design and build the poster we used for presentation
+4) WordCraft to write the abstract and report
+
+All analysis can be preformed in PSPP, SPSS, or any tool of choice. The results we used came directly from our faculty recommended methods, and all other methods should be considered exploratory or secondary validation.
+
+We would like to make a special thanks to our faculty mentor Dr. Diane J. Pfahler for her immense help in this project, without which we would not have gotten to this point.
+We love you Dr. Pfahler!
+
 # Installing python dependencies:
 > First, create the python environment by running `python -m venv data_analysis`,
 > then activate the environment with `source data_analysis/bin/activate` on 
