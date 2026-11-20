@@ -1,0 +1,73 @@
+Table: Group Statistics
+,Group,N,Mean,Std. Deviation,S.E. Mean
+sss_total,1,22,35.86,9.17,1.95
+,2,30,40.37,8.87,1.62
+esli_social_loneliness,1,22,9.91,5.38,1.15
+,2,30,7.20,2.81,.51
+esli_emotional_loneliness,1,22,10.18,6.96,1.48
+,2,30,8.50,4.64,.85
+esli_social_isolation,1,22,9.36,5.07,1.08
+,2,30,6.37,4.25,.78
+esli_emotional_isolation,1,22,8.73,5.47,1.17
+,2,30,6.53,4.59,.84
+
+Table: Independent Samples Test
+,,Levene's Test for Equality of Variances,,T-Test for Equality of Means,,,,,,
+,,F,Sig.,t,df,Sig. (2-tailed),Mean Difference,Std. Error Difference,95% Confidence Interval of the Difference,
+,,,,,,,,,Lower,Upper
+sss_total,Equal variances assumed,.14,.708,-1.78,50.00,.081,-4.50,2.53,-9.58,.57
+,Equal variances not assumed,,,-1.77,44.54,.083,-4.50,2.54,-9.62,.61
+esli_social_loneliness,Equal variances assumed,8.19,.006,2.36,50.00,.022,2.71,1.15,.40,5.02
+,Equal variances not assumed,,,2.16,29.38,.039,2.71,1.26,.14,5.28
+esli_emotional_loneliness,Equal variances assumed,6.75,.012,1.05,50.00,.301,1.68,1.61,-1.55,4.91
+,Equal variances not assumed,,,.98,34.30,.332,1.68,1.71,-1.79,5.15
+esli_social_isolation,Equal variances assumed,1.83,.182,2.32,50.00,.025,3.00,1.29,.40,5.60
+,Equal variances not assumed,,,2.25,40.44,.030,3.00,1.33,.31,5.68
+esli_emotional_isolation,Equal variances assumed,.18,.674,1.57,50.00,.123,2.19,1.40,-.61,5.00
+,Equal variances not assumed,,,1.53,40.48,.134,2.19,1.44,-.71,5.10
+
+Table: Group Statistics
+,Group,N,Mean,Std. Deviation,S.E. Mean
+sss_total,1,22,35.86,9.17,1.95
+,3,2,33.00,.00,.00
+esli_social_loneliness,1,22,9.91,5.38,1.15
+,3,2,11.50,.71,.50
+esli_emotional_loneliness,1,22,10.18,6.96,1.48
+,3,2,17.00,4.24,3.00
+esli_social_isolation,1,22,9.36,5.07,1.08
+,3,2,9.50,2.12,1.50
+esli_emotional_isolation,1,22,8.73,5.47,1.17
+,3,2,9.50,3.54,2.50
+
+Table: Independent Samples Test
+,,Levene's Test for Equality of Variances,,T-Test for Equality of Means,,,,,,
+,,F,Sig.,t,df,Sig. (2-tailed),Mean Difference,Std. Error Difference,95% Confidence Interval of the Difference,
+,,,,,,,,,Lower,Upper
+sss_total,Equal variances assumed,3.76,.065,.43,22.00,.669,2.86,6.61,-10.85,16.58
+,Equal variances not assumed,,,1.47,21.00,.158,2.86,1.95,-1.20,6.93
+esli_social_loneliness,Equal variances assumed,2.37,.138,-.41,22.00,.686,-1.59,3.88,-9.64,6.46
+,Equal variances not assumed,,,-1.27,16.91,.221,-1.59,1.25,-4.23,1.05
+esli_emotional_loneliness,Equal variances assumed,1.41,.248,-1.35,22.00,.192,-6.82,5.07,-17.33,3.69
+,Equal variances not assumed,,,-2.04,1.54,.215,-6.82,3.35,-26.16,12.52
+esli_social_isolation,Equal variances assumed,2.42,.134,-.04,22.00,.971,-.14,3.67,-7.75,7.48
+,Equal variances not assumed,,,-.07,2.28,.947,-.14,1.85,-7.23,6.96
+esli_emotional_isolation,Equal variances assumed,.61,.444,-.19,22.00,.848,-.77,3.99,-9.04,7.49
+,Equal variances not assumed,,,-.28,1.48,.814,-.77,2.76,-17.70,16.16
+
+Table: Correlations
+,,sss_total,esli_social_loneliness,esli_emotional_loneliness,esli_social_isolation,esli_emotional_isolation
+sss_total,Pearson Correlation,1.000,-.493,-.530,-.661,-.508
+,Sig. (2-tailed),,.000,.000,.000,.000
+,N,54,54,54,54,54
+esli_social_loneliness,Pearson Correlation,-.493,1.000,.659,.636,.549
+,Sig. (2-tailed),.000,,.000,.000,.000
+,N,54,54,54,54,54
+esli_emotional_loneliness,Pearson Correlation,-.530,.659,1.000,.548,.763
+,Sig. (2-tailed),.000,.000,,.000,.000
+,N,54,54,54,54,54
+esli_social_isolation,Pearson Correlation,-.661,.636,.548,1.000,.711
+,Sig. (2-tailed),.000,.000,.000,,.000
+,N,54,54,54,54,54
+esli_emotional_isolation,Pearson Correlation,-.508,.549,.763,.711,1.000
+,Sig. (2-tailed),.000,.000,.000,.000,
+,N,54,54,54,54,54
